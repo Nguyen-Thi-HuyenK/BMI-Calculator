@@ -4,6 +4,9 @@ This is my first Android app as an assignment for the course "Mobile Programming
 This BMI Calculator Android app is a simple tool designed to calculate Body Mass Index (BMI) based on user input of height and weight. 
 It provides an easy-to-use interface for users to input their height in meters and weight in kilograms, and instantly receive their 
 BMI result along with a corresponding message indicating their BMI category.
+##### This is how the app looks like:
+![BMI Calculator](https://github.com/Nguyen-Thi-HuyenK/BMI-Calculator/blob/master/assets/BMI-Calculator.png)
+
 ## Features:
 Input fields for height and weight
 Real-time BMI calculation
