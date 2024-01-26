@@ -8,9 +8,9 @@ BMI result along with a corresponding message indicating their BMI category.
 ![BMI Calculator](https://github.com/Nguyen-Thi-HuyenK/BMI-Calculator/blob/master/assets/BMI-Calculator.png)
 
 ## Features:
-Input fields for height and weight
-Real-time BMI calculation
-BMI category classification (Underweight, Normal weight, Overweight, Obesity)
+- Input fields for height and weight
+- Real-time BMI calculation
+
 ## Getting Started:
 ### Requirements:
 - Android Studio IDE installed on your computer.
