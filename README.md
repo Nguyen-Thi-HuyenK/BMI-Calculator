@@ -18,7 +18,7 @@ BMI result along with a corresponding message indicating their BMI category.
 ### Clone Repository:
 Clone the repository from GitHub using the following command: 
 ```bash
-git clone <https://github.com/Nguyen-Thi-HuyenK/BMI-Calculator.git>
+git clone https://github.com/Nguyen-Thi-HuyenK/BMI-Calculator.git
 ```
 ### Open Project in Android Studio:
 - Open Android Studio.
